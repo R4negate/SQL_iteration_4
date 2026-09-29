@@ -1,0 +1,5 @@
+[project]
+name = "sql-iteration-4"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = []
